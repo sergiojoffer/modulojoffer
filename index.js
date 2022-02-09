@@ -1,3 +1,3 @@
-module.exports = function(){
-  return 'Meu primeiro modulo NPM - DevJoffer.'
+module.exports = function(str){
+  return  str + 'Meu primeiro modulo NPM - DevJoffer.'
 }

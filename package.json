@@ -1,14 +1,23 @@
 {
   "name": "modulojoffer",
-  "version": "0.0.2",
-  "description": "simples modulo",
+  "version": "1.0.0",
+  "description": "",
   "main": "index.js",
+  "dependencies": {
+    "modulojoffer": "^0.0.2"
+  },
+  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Sergio Joffer",
-  "license": "MIT",
-  "dependencies": {
-    "modulojoffer": "^0.0.2"
-  }
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sergiojoffer/modulojoffer.git"
+  },
+  "author": "Sergio Vitor da Silva Joffer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sergiojoffer/modulojoffer/issues"
+  },
+  "homepage": "https://github.com/sergiojoffer/modulojoffer#readme"
 }
