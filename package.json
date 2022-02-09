@@ -1,0 +1,14 @@
+{
+  "name": "modulojoffer",
+  "version": "0.0.2",
+  "description": "simples modulo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sergio Joffer",
+  "license": "MIT",
+  "dependencies": {
+    "modulojoffer": "^0.0.2"
+  }
+}
